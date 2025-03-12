@@ -44,7 +44,7 @@
 
 ---
 
-## ** Installation & Usage Guide**  
+## **Installation & Usage Guide**  
 
 ### **Install Dependencies**  
 Run the following command to install required libraries:  
