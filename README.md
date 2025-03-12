@@ -1,4 +1,4 @@
-![Veilgen Logo](https://imgur.com/a/RMxrLSq)
+![Veilgen Logo](https://i.postimg.cc/gr91FGph/Veilgen-1-enhanced.png)
 
 # **Veilgen** – Powerful Fake Data Generation  
 
