@@ -52,7 +52,7 @@
 Run the following command to install required libraries:  
 bash
 ```
-pip install rich cryptography faker
+pip install -r requirements.txt
 
 ```
 
