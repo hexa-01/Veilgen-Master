@@ -4,7 +4,7 @@
 
 ---
 
-## **🔹 Key Features**  
+## ** Key Features**  
 
 ✔️ Generate various types of fake data:  
 - Passwords  
@@ -44,18 +44,19 @@
 
 ---
 
-## **🚀 Installation & Usage Guide**  
+## ** Installation & Usage Guide**  
 
-### **1️⃣ Install Dependencies**  
+### **Install Dependencies**  
 Run the following command to install required libraries:  
 bash
-```pip install rich cryptography faker
+```
+pip install rich cryptography faker
 
 ```
 
 ---
 
-📌 How It Works
+ How It Works
 
 When you run Veilgen, an interactive menu will appear, allowing you to choose the type of data to generate:
 ````
@@ -81,10 +82,10 @@ When you run Veilgen, an interactive menu will appear, allowing you to choose th
 │  0    │ Exit                          │
 └───────┴──────────────────────────────┘
 ````
-✅ Enter a number to choose an option.
-✅ Specify how many records you want to generate.
-✅ Data is automatically encrypted and saved as a .enc file.
-✅ Use option 99 to decrypt and view saved data.
+ Enter a number to choose an option.
+ Specify how many records you want to generate.
+ Data is automatically encrypted and saved as a .enc file.
+ Use option 99 to decrypt and view saved data.
 
 
 ---
@@ -123,7 +124,7 @@ Fake Identity Generation
 ````
 ---
 
-🔓 Decrypt and View Saved Data
+Decrypt and View Saved Data
 
 If you previously saved encrypted data, you can decrypt it using option 99.
 It will display a list of available encrypted files:
@@ -138,7 +139,7 @@ Select a file, and the decrypted data will be displayed in a structured format.
 
 ---
 
-🤝 Contribute
+Contribute
 
 Veilgen is open-source, and contributions are welcome.
 Feel free to submit issues, suggestions, or improvements.
@@ -146,10 +147,10 @@ Feel free to submit issues, suggestions, or improvements.
 
 ---
 
-📬 Contact
+Contact
 
-📧 Email: veilgen@proton.me
-💬 Telegram: VeilgenS
+Email: veilgen@proton.me
+Telegram: https://t.me/VeilgenS
 
 
 ---
