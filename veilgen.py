@@ -11,11 +11,9 @@ from faker import Faker
 console = Console()
 fake = Faker()
 
-# جعل المسارات مرنة لدعم التشغيل من أي مكان
 base_dir = os.getcwd()
 key_file_path = os.path.join(base_dir, "secret.key")
 
-# توليد مفتاح التشفير أو قراءته إذا كان موجودًا
 if not os.path.exists(key_file_path):
     key = Fernet.generate_key()
     with open(key_file_path, "wb") as key_file:
@@ -26,7 +24,7 @@ else:
 
 cipher = Fernet(key)
 
-# توليد بيانات عشوائية
+
 def random_string(length):
     return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
 
@@ -206,3 +204,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Veilgen - Fake Data Generator  
+# Developed by hexa-01
