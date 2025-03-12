@@ -60,6 +60,14 @@ via pip
 pip install veilgen
 
 ````
+via git
+````
+git clone https://github.com/hexa-01/Veilgen-Master.git
+cd Veilgen-Master
+pip install -r requirements.txt
+python veilgen/veilgen.py
+
+````
 
 ---
 
