@@ -4,7 +4,7 @@
 
 ---
 
-## ** Key Features**  
+## **Key Features**  
 
 ✔️ Generate various types of fake data:  
 - Passwords  
@@ -90,7 +90,7 @@ When you run Veilgen, an interactive menu will appear, allowing you to choose th
 
 ---
 
-📄 Sample Output
+📄 Sample Output 
 
 Password Generation
 ```
@@ -147,9 +147,10 @@ Feel free to submit issues, suggestions, or improvements.
 
 ---
 
-Contact
+Contact 
 
 Email: veilgen@proton.me
+
 Telegram: https://t.me/VeilgenS
 
 
