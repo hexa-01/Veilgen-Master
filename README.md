@@ -1,3 +1,5 @@
+![Veilgen Logo](https://imgur.com/a/RMxrLSq)
+
 # **Veilgen** – Powerful Fake Data Generation  
 
 **Veilgen** is an open-source tool for generating fake data, designed for testing, development, and privacy protection.  
