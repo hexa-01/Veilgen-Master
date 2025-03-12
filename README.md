@@ -55,6 +55,11 @@ bash
 pip install -r requirements.txt
 
 ```
+via pip
+````
+pip install veilgen
+
+````
 
 ---
 
