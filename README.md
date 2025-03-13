@@ -68,7 +68,14 @@ pip install -r requirements.txt
 python veilgen/veilgen.py
 
 ````
-
+via AUR (Arch Linux)
+````
+yay -S veilgen
+````
+or
+````
+paru -S veilgen
+````
 ---
 
  How It Works
