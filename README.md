@@ -170,7 +170,7 @@ Feel free to submit issues, suggestions, or improvements.
 
 Important Links
 
-Veilgen is not just a tool, but the beginning of a new field!  Discover it on AlternativeTo: https://alternativeto.net/software/veilgen/
+Veilgen is not just a tool, but the beginning of a new field  Discover it on AlternativeTo: https://alternativeto.net/software/veilgen/
 
 ---
 
